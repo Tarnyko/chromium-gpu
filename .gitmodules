@@ -1,0 +1,4 @@
+[submodule "third_party/angle"]
+	path = third_party/angle
+	url = https://chromium.googlesource.com/angle/angle.git
+	branch = 457f1d929e5fd911e0ad9ea53db43010dfae0662
