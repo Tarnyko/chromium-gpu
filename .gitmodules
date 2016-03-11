@@ -2,3 +2,10 @@
 	path = third_party/angle
 	url = https://chromium.googlesource.com/angle/angle.git
 	branch = 457f1d929e5fd911e0ad9ea53db43010dfae0662
+[submodule "third_party/smhasher/src"]
+	path = third_party/smhasher/src
+	url = https://chromium.googlesource.com/external/smhasher.git
+	branch = e87738e57558e0ec472b2fc3a643b838e5b6e88f
+[submodule "tools"]
+	path = tools
+	url = https://github.com/Tarnyko/chromium-tools
